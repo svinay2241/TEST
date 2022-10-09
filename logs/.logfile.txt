@@ -1,0 +1,127 @@
+
+[18/8/2022 -- 14:27]  Info task started
+[18/8/2022 -- 14:27]  Mustache Templates ran on the HTML files
+[18/8/2022 -- 14:27]  Scripts ran on main.js
+[18/8/2022 -- 14:27]  Sass ran on files
+[18/8/2022 -- 14:36]  Info task started
+[18/8/2022 -- 14:36]  Mustache Templates ran on the HTML files
+[18/8/2022 -- 14:36]  Scripts ran on main.js
+[18/8/2022 -- 14:36]  Sass ran on files
+[18/8/2022 -- 14:38]  restarted!
+[18/8/2022 -- 14:38]  restarted!
+[18/8/2022 -- 14:41]  Info task started
+[18/8/2022 -- 14:41]  Mustache Templates ran on the HTML files
+[18/8/2022 -- 14:41]  Scripts ran on main.js
+[18/8/2022 -- 14:42]  Sass ran on files
+[18/8/2022 -- 15:10]  Info task started
+[18/8/2022 -- 15:10]  Mustache Templates ran on the HTML files
+[18/8/2022 -- 15:10]  Scripts ran on main.js
+[18/8/2022 -- 15:11]  Sass ran on files
+[18/8/2022 -- 15:14]  restarted!
+[18/8/2022 -- 15:14]  restarted!
+[18/8/2022 -- 15:14]  restarted!
+[18/8/2022 -- 15:16]  restarted!
+[18/8/2022 -- 15:16]  restarted!
+[18/8/2022 -- 15:16]  restarted!
+[18/8/2022 -- 15:16]  restarted!
+[18/8/2022 -- 15:23]  Sass ran on files
+[18/8/2022 -- 15:29]  Info task started
+[18/8/2022 -- 15:29]  Mustache Templates ran on the HTML files
+[18/8/2022 -- 15:29]  Scripts ran on main.js
+[18/8/2022 -- 15:30]  Sass ran on files
+[18/8/2022 -- 15:33]  Info task started
+[18/8/2022 -- 15:36]  Info task started
+[18/8/2022 -- 15:41]  Info task started
+[18/8/2022 -- 15:41]  Mustache Templates ran on the HTML files
+[18/8/2022 -- 15:41]  Scripts ran on main.js
+[18/8/2022 -- 15:42]  Sass ran on files
+[18/8/2022 -- 15:56]  Sass ran on files
+[18/8/2022 -- 15:56]  Sass ran on files
+[18/8/2022 -- 15:56]  Sass ran on files
+[18/8/2022 -- 15:56]  Sass ran on files
+[18/8/2022 -- 15:57]  Sass ran on files
+[18/8/2022 -- 15:57]  Sass ran on files
+[18/8/2022 -- 15:58]  Sass ran on files
+[18/8/2022 -- 15:58]  Sass ran on files
+[18/8/2022 -- 15:58]  Sass ran on files
+[18/8/2022 -- 15:58]  Sass ran on files
+[18/8/2022 -- 15:59]  Sass ran on files
+[18/8/2022 -- 15:59]  Sass ran on files
+[18/8/2022 -- 15:59]  Sass ran on files
+[18/8/2022 -- 16:1]  Sass ran on files
+[18/8/2022 -- 16:1]  Sass ran on files
+[18/8/2022 -- 16:2]  Sass ran on files
+[18/8/2022 -- 16:3]  Sass ran on files
+[18/8/2022 -- 16:3]  Sass ran on files
+[18/8/2022 -- 16:3]  Sass ran on files
+[18/8/2022 -- 16:3]  Sass ran on files
+[18/8/2022 -- 16:5]  Sass ran on files
+[18/8/2022 -- 16:5]  Sass ran on files
+[18/8/2022 -- 16:5]  Sass ran on files
+[18/8/2022 -- 16:6]  Sass ran on files
+[18/8/2022 -- 16:6]  Sass ran on files
+[18/8/2022 -- 16:8]  Scripts ran on main.js
+[18/8/2022 -- 16:8]  Scripts ran on main.js
+[18/8/2022 -- 16:8]  Scripts ran on main.js
+[18/8/2022 -- 16:8]  Scripts ran on main.js
+[18/8/2022 -- 16:8]  Scripts ran on main.js
+[18/8/2022 -- 16:9]  Sass ran on files
+[18/8/2022 -- 16:9]  Sass ran on files
+[18/8/2022 -- 16:9]  Sass ran on files
+[18/8/2022 -- 16:9]  Sass ran on files
+[18/8/2022 -- 16:9]  Sass ran on files
+[18/8/2022 -- 16:9]  Sass ran on files
+[18/8/2022 -- 16:9]  Sass ran on files
+[18/8/2022 -- 16:9]  Sass ran on files
+[18/8/2022 -- 16:9]  Sass ran on files
+[18/8/2022 -- 16:9]  Sass ran on files
+[18/8/2022 -- 16:10]  Sass ran on files
+[18/8/2022 -- 16:10]  Sass ran on files
+[18/8/2022 -- 16:10]  Sass ran on files
+[18/8/2022 -- 16:10]  Sass ran on files
+[18/8/2022 -- 16:10]  Sass ran on files
+[18/8/2022 -- 16:10]  Sass ran on files
+[18/8/2022 -- 16:11]  Sass ran on files
+[18/8/2022 -- 16:11]  Sass ran on files
+[18/8/2022 -- 16:11]  Sass ran on files
+[18/8/2022 -- 16:11]  Sass ran on files
+[18/8/2022 -- 16:11]  Sass ran on files
+[18/8/2022 -- 16:11]  Sass ran on files
+[18/8/2022 -- 16:12]  restarted!
+[18/8/2022 -- 16:12]  restarted!
+[18/8/2022 -- 16:12]  restarted!
+[18/8/2022 -- 16:13]  restarted!
+[18/8/2022 -- 16:13]  restarted!
+[18/8/2022 -- 16:13]  restarted!
+[18/8/2022 -- 16:13]  restarted!
+[18/8/2022 -- 16:13]  restarted!
+[18/8/2022 -- 16:13]  restarted!
+[18/8/2022 -- 16:13]  restarted!
+[18/8/2022 -- 16:13]  restarted!
+[18/8/2022 -- 16:13]  restarted!
+[18/8/2022 -- 16:13]  restarted!
+[18/8/2022 -- 16:13]  restarted!
+[18/8/2022 -- 16:13]  restarted!
+[18/8/2022 -- 16:13]  restarted!
+[18/8/2022 -- 16:13]  restarted!
+[18/8/2022 -- 16:14]  restarted!
+[18/8/2022 -- 16:14]  restarted!
+[18/8/2022 -- 16:14]  restarted!
+[18/8/2022 -- 16:14]  restarted!
+[18/8/2022 -- 16:14]  restarted!
+[18/8/2022 -- 16:17]  Scripts ran on main.js
+[18/8/2022 -- 16:17]  Scripts ran on main.js
+[18/8/2022 -- 16:17]  Scripts ran on main.js
+[18/8/2022 -- 16:19]  Scripts ran on main.js
+[18/8/2022 -- 16:19]  Scripts ran on main.js
+[18/8/2022 -- 16:19]  Scripts ran on main.js
+[18/8/2022 -- 16:22]  Info task started
+[18/8/2022 -- 16:22]  Mustache Templates ran on the HTML files
+[18/8/2022 -- 16:22]  Scripts ran on main.js
+[18/8/2022 -- 16:23]  Sass ran on files
+[18/8/2022 -- 16:26]  Scripts ran on main.js
+[18/8/2022 -- 16:26]  Scripts ran on main.js
+[18/8/2022 -- 16:32]  Sass ran on files
+[18/8/2022 -- 16:33]  restarted!
+[18/8/2022 -- 16:33]  restarted!
+[18/8/2022 -- 16:33]  restarted!
